@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.Write("hello");
+            Console.WriteLine("second change from vscode");
         }
     }
 }
