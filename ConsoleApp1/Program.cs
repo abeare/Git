@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // add to master from vscode
             Console.WriteLine("Hello World!");
             Console.Write("hello");
             Console.WriteLine("second change from vscode");
