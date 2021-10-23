@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine( "add to develop brach from vscode");
             Console.WriteLine("develop brach");
             Console.WriteLine("Hello World!");
             Console.Write("hello");
